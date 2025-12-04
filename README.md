@@ -1,6 +1,6 @@
-# Hi there, I'm Gaurang Singh 👋
+# Hi there, I'm Gaurang Singh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-## 🚀 Data Scientist | Machine Learning Enthusiast
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Data+Scientist;Machine+Learning+Enthusiast;Python+Developer;Open+Source+Contributor)](https://git.io/typing-svg)
 
 I am a passionate Data Scientist with a strong background in Data Science. I love turning complex data into actionable insights and building machine learning models that solve real-world problems.
 
