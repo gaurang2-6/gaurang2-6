@@ -9,7 +9,7 @@ I am a passionate Data Scientist with a strong background in Data Science. I lov
 [![Medium](https://img.shields.io/badge/Medium-Read_My_Articles-black?style=for-the-badge&logo=medium)](https://medium.com/@your-profile)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:gaurangsingh532@gmail.com)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 🛠️ Tech Stack
 
@@ -36,14 +36,14 @@ I am a passionate Data Scientist with a strong background in Data Science. I lov
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurang2-6&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurang2-6&layout=compact&theme=radical)
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 🏆 Featured Projects
 
@@ -62,7 +62,7 @@ I am a passionate Data Scientist with a strong background in Data Science. I lov
 *   **Tech Stack:** PyTorch, CNNs.
 *   **Key Result:** Deployed model via Flask API.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 📫 Get in Touch
 
