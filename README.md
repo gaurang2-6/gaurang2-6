@@ -70,7 +70,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 - **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
 - **Email:** [gaurangsingh532@gmail.com](mailto:gaurangsingh532@gmail.com)
-- **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+- **Portfolio:** [your-portfolio.com]((https://gaurang-portfolio-xi-eosin.vercel.app/))
 
 <!---
 Visitor count
