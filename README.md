@@ -1,10 +1,23 @@
+# Hi, I'm Gaurang Singh 👋
+
+**Data Scientist · AI/ML Engineer · Creative Technologist** — Mumbai, India
+
+I'm a dual-degree student at IIT Madras (B.Sc. Data Science & Programming, CGPA 8.2) and IIST Indore (B.Tech CS), building ML systems and visual experiences. I work at the intersection of machine learning and design — from fraud detection models to motion graphics and short films.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/-gaurangsingh/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=flat)](https://gaurang-portfolio-lime.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-gaurang2--6-black?style=flat&logo=github)](https://github.com/gaurang2-6)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:gaurangsingh532@gmail.com)
+
+---
+
 ## 🛠️ Tech Stack
 
-**Languages:** Python · R · SQL · JavaScript · TypeScript · C/C++ · Kotlin · Java · Bash
-**ML & AI:** TensorFlow · PyTorch · Scikit-learn · OpenCV · XGBoost · NLTK · Transformers
-**Data & Viz:** Pandas · NumPy · Matplotlib · Seaborn · Tableau · Power BI
-**Web & Backend:** React.js · Node.js · FastAPI · Flask · Django
-**Cloud & DevOps:** AWS · Azure AI · Docker · Git · Firebase
+**Languages:** Python · R · SQL · JavaScript · TypeScript · C/C++  
+**ML & AI:** TensorFlow · PyTorch · Scikit-learn · OpenCV · XGBoost · Transformers  
+**Data & Viz:** Pandas · NumPy · Matplotlib · Tableau · Power BI  
+**Web & Backend:** React.js · Node.js · FastAPI · Flask  
+**Cloud & DevOps:** AWS · Azure AI · Docker · Git  
 **Creative:** Figma · Premiere Pro · After Effects · Illustrator · Photoshop
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -19,19 +32,19 @@
 ## 🚀 Featured Projects
 
 ### [StressSense](https://github.com/gaurang2-6/streesense)
-Privacy-first mental wellness app — TensorFlow Lite on-device stress detection. No data leaves the device.
+Privacy-first mental wellness app using TensorFlow Lite for on-device stress detection. No data leaves the device.  
 `Kotlin` `TensorFlow Lite` `Edge AI` `Android`
 
 ### UPI Fraud Detection System
-Gradient Boosting pipeline targeting financial fraud, tuned for minimal false negatives.
+End-to-end fraud detection using Gradient Boosting. Focused on minimising false negatives for financial safety.  
 `Python` `XGBoost` `Scikit-learn` `Pandas`
 
 ### Cardiovascular Disease Detection — Published @ ACET 2025
-Ensemble RF + MLP on 70k records → 94.80% accuracy for early medical decision support.
+Ensemble of Random Forest + MLP on 70,000 records. Achieved 94.80% accuracy for early-stage medical decision support.  
 `Python` `Ensemble Learning` `Random Forest` `MLP`
 
 ### IIT Madras Payment Portal UI
-Branded payment interface for the BS programme — clarity-first design with trust signals.
+Branded payment interface for IIT Madras BS programme — multiple design iterations with focus on clarity and trust.  
 `Figma` `UI/UX` `Branding`
 
 ---
@@ -39,9 +52,11 @@ Branded payment interface for the BS programme — clarity-first design with tru
 ## 🎬 Beyond the Code
 
 - **Super Coordinator** — IIT Madras Multimedia Team (Paradox Fest): led photography, videography & motion graphics
-- **President** — Filmmaking & Photography Club, IIST Indore: founded, mentored 20+ members
-- **Co-founder** — Monky Studio: brand identity, video, 2D animation
+- **President** — Filmmaking & Photography Club, IIST Indore: founded club, directed productions, mentored 20+ members
+- **Co-founder** — Monky Studio: creative production (brand identity, video, animation)
 - **Freelance** since 2023: brand identity · UI/UX · 2D animation · video editing · cinematography
+
+> "I don't just build models — I make them look good too."
 
 ---
 
@@ -54,8 +69,10 @@ Branded payment interface for the BS programme — clarity-first design with tru
 
 ---
 
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurang2-6&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurang2-6&layout=compact&theme=radical)
 
-*Open to internships & roles in Data Science, ML, and Creative Tech.*
+---
+*Open to internships & full-time roles in Data Science, ML, and Creative Tech.*  
 📬 gaurangsingh532@gmail.com
