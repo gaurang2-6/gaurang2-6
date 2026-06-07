@@ -1,4 +1,4 @@
-# Hi, I'm Gaurang Singh 👋
+[# Hi, I'm Gaurang Singh 👋
 
 **Data Scientist · AI/ML Engineer · Creative Technologist**
 Mumbai, India
@@ -33,3 +33,4 @@ I'm a dual-degree student at IIT Madras (B.Sc. Data Science) and IIST Indore (B.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gaurang2-6&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurang2-6&layout=compact&theme=radical)
+](https://www.linkedin.com/in/-gaurangsingh/)
