@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-label="Six-stage pipeline: data, clean, features, train, evaluate, deploy">
+  <style>
+    .mono{font-family:"IBM Plex Mono",Consolas,Menlo,"DejaVu Sans Mono",monospace;font-size:12px;letter-spacing:1.4px;fill:#55534e}
+    .st{font-family:"Arial Black","Helvetica Neue",Arial,sans-serif;font-weight:900;font-size:19px;fill:#121214;letter-spacing:.5px}
+    .d{font-family:"Helvetica Neue",Arial,sans-serif;font-size:13.5px;fill:#55534e}
+    .node{fill:#dcdbd6;stroke:#55534e;stroke-width:1.5}
+  </style>
+  <rect width="1200" height="230" fill="#dcdbd6"/>
+  <text x="40" y="38" class="mono">01 / SYSTEM — ONE PIPELINE, SIX STAGES. EVERY PROJECT BELOW RUNS THROUGH IT.</text>
+  <path id="route" d="M110 110H1090" stroke="#b9b7b0" stroke-width="2" fill="none"/>
+  <path d="M110 110H1090" stroke="#e02a1c" stroke-width="2" fill="none" stroke-dasharray="980" stroke-dashoffset="980">
+    <animate attributeName="stroke-dashoffset" values="980;0;0" keyTimes="0;.8;1" dur="6s" repeatCount="indefinite"/>
+  </path>
+  <g>
+    <circle cx="110" cy="110" r="9" class="node"/><circle cx="306" cy="110" r="9" class="node"/>
+    <circle cx="502" cy="110" r="9" class="node"/><circle cx="698" cy="110" r="9" class="node"/>
+    <circle cx="894" cy="110" r="9" class="node"/><circle cx="1090" cy="110" r="9" class="node"/>
+  </g>
+  <!-- stage lights: each turns red as the signal reaches it -->
+  <g fill="#e02a1c">
+    <circle cx="110" cy="110" r="4"><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.01;.95;1" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="306" cy="110" r="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.16;.17;.95;1" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="502" cy="110" r="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.32;.33;.95;1" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="698" cy="110" r="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.48;.49;.95;1" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="894" cy="110" r="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.64;.65;.95;1" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="1090" cy="110" r="4" opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;.8;.81;.95;1" dur="6s" repeatCount="indefinite"/></circle>
+    <circle r="5"><animateMotion dur="6s" repeatCount="indefinite" keyPoints="0;1;1" keyTimes="0;.8;1" calcMode="linear" path="M110 110H1090"/></circle>
+  </g>
+  <g text-anchor="middle">
+    <text x="110" y="80" class="mono">00</text><text x="110" y="152" class="st">DATA</text><text x="110" y="176" class="d">what exists, what's wrong</text>
+    <text x="306" y="80" class="mono">01</text><text x="306" y="152" class="st">CLEAN</text><text x="306" y="176" class="d">missing values, leakage</text>
+    <text x="502" y="80" class="mono">02</text><text x="502" y="152" class="st">FEATURES</text><text x="502" y="176" class="d">raw columns into signal</text>
+    <text x="698" y="80" class="mono">03</text><text x="698" y="152" class="st">TRAIN</text><text x="698" y="176" class="d">baselines, then ensembles</text>
+    <text x="894" y="80" class="mono">04</text><text x="894" y="152" class="st">EVALUATE</text><text x="894" y="176" class="d">metrics that fit the decision</text>
+    <text x="1090" y="80" class="mono">05</text><text x="1090" y="152" class="st">DEPLOY</text><text x="1090" y="176" class="d">API, container, or 6 KB on a phone</text>
+  </g>
+  <g fill="none" stroke="#e02a1c" stroke-width="1.5"><path d="M20 210h16M20 210v-16M1180 20h-16M1180 20v16"/></g>
+</svg>

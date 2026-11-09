@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-label="Gaurang Singh, data scientist, Mumbai">
+  <style>
+    .mono{font-family:"IBM Plex Mono",Consolas,Menlo,"DejaVu Sans Mono",monospace;font-size:13px;letter-spacing:1.6px;fill:#9c988f}
+    .name{font-family:"Arial Black","Helvetica Neue",Arial,sans-serif;font-weight:900;font-size:96px;letter-spacing:-2px;fill:#e7e3da}
+    .thin{font-family:"Helvetica Neue",Arial,sans-serif;font-weight:300;font-size:96px;letter-spacing:-2px;fill:#e7e3da}
+    .lede{font-family:"Helvetica Neue",Arial,sans-serif;font-size:21px;fill:#e7e3da}
+    .ital{font-family:Georgia,"Times New Roman",serif;font-style:italic;font-size:25px;fill:#e7e3da}
+    .sig{fill:#ff3d2e}
+    .pulse{animation:p 1.6s ease-in-out infinite}
+    @keyframes p{50%{opacity:.2}}
+    .scan{animation:s 6s linear infinite}
+    @keyframes s{from{transform:translateX(0)}to{transform:translateX(1140px)}}
+  </style>
+  <rect width="1200" height="380" fill="#0a0a0b"/>
+  <!-- grid -->
+  <g stroke="#2a2a2d" stroke-width="1">
+    <path d="M0 95H1200M0 190H1200M0 285H1200M300 0V380M600 0V380M900 0V380" opacity=".55"/>
+  </g>
+  <!-- scanning line -->
+  <g class="scan"><rect x="30" y="30" width="1" height="320" fill="#ff3d2e" opacity=".35"/></g>
+  <!-- crosshairs -->
+  <g stroke="#9c988f" stroke-width="1">
+    <path d="M300 86v18M291 95h18M900 276v18M891 285h18M600 181v18M591 190h18"/>
+  </g>
+  <!-- corner brackets -->
+  <g fill="none" stroke="#ff3d2e" stroke-width="1.5">
+    <path d="M20 44V20H44M1156 20H1180V44M1180 336V360H1156M44 360H20V336"/>
+  </g>
+  <text x="48" y="62" class="mono">DATA SCIENTIST · MUMBAI · 19.07° N 72.88° E</text>
+  <text x="1152" y="62" class="mono" text-anchor="end">PROFILE · v0.1</text>
+  <text x="44" y="186"><tspan class="name">GAURANG</tspan><tspan class="thin" dx="22">SINGH</tspan></text>
+  <text x="48" y="238" class="lede">I build machine-learning pipelines <tspan class="ital">end to end,</tspan> then draw them so you can see how they work.</text>
+  <circle cx="54" cy="316" r="4.5" class="sig pulse"/>
+  <text x="68" y="321" class="mono">OPEN TO DS / ML / DATA ANALYST ROLES · CAN JOIN IMMEDIATELY</text>
+  <text x="1152" y="321" class="mono" text-anchor="end">B.TECH CSE (DATA SCIENCE) · IIST INDORE · 2027</text>
+</svg>
