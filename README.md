@@ -84,4 +84,4 @@ Final-year **B.Tech CSE (Data Science)** at IIST Indore, graduating 2027. Alongs
 > The pipeline ends with a hire. Open to **data scientist, ML engineer and data analyst** roles in Mumbai / Navi Mumbai or remote — can join immediately.
 >
 > **[gaurangsingh532@gmail.com](mailto:gaurangsingh532@gmail.com)** · [LinkedIn](https://linkedin.com/in/-gaurangsingh). 
-[portfolio](www.gaurang.studio.com)
+[portfolio](https://www.gaurang.studio/)
